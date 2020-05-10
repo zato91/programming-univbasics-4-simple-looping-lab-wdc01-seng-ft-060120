@@ -4,11 +4,11 @@ def loop_message_five_times(arr)
   
 end
 
-def lloop_message_n_times(arr)
+def loop_message_n_times(arr)
   
 end
 
-def loop_message_five_times(arr)
+def output_array(arr)
   
 end
 
