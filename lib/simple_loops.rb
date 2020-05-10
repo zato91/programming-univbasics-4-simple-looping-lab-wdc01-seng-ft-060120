@@ -12,6 +12,6 @@ def output_array(arr)
   
 end
 
-def loop_message_five_times(arr)
+def return_string_array(arr)
   
 end
