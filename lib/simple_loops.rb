@@ -13,9 +13,7 @@ def loop_message_n_times(arr,n)
 end
 
 def output_array(arr)
-  for let i = 0 , i < arr.length, i++
-    puts arr[i]
-  end
+  arr.forEach
 end
 
 def return_string_array(arr)
