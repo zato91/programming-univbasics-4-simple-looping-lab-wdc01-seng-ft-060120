@@ -14,7 +14,7 @@ end
 
 def output_array(arr)
   arr.each do |i|
-    puts arr[i]
+    puts i
   end
 end
 
