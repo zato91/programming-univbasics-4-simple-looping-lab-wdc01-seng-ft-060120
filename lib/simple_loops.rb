@@ -13,7 +13,7 @@ def loop_message_n_times(arr,n)
 end
 
 def output_array(arr)
-  arr.forEach do |i|
+  arr.each do |i|
     puts arr[i]
   end
 end
