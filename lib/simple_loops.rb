@@ -19,7 +19,6 @@ def output_array(arr)
 end
 
 def return_string_array(arr)
-  arr.each do |i|
-    puts i
+  array.map { |n| n * 2 }
   end
 end
