@@ -13,7 +13,9 @@ def loop_message_n_times(arr,n)
 end
 
 def output_array(arr)
-  arr.forEach
+  arr.forEach do |i|
+    arr[i]
+  end
 end
 
 def return_string_array(arr)
