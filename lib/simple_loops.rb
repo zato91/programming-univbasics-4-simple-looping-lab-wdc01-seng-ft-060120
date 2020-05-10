@@ -19,5 +19,7 @@ def output_array(arr)
 end
 
 def return_string_array(arr)
-  arr.map
+  arr.each do |i|
+    puts i
+  end
 end
